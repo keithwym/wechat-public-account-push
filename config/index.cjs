@@ -43,8 +43,6 @@ USE_PASSAGE: 'push-deer'
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-09-08' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
   ],
